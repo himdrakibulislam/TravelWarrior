@@ -40,9 +40,9 @@ function App() {
         <PrivateRoute path='/book/:bookId'>
           <Book></Book>
         </PrivateRoute>
-        <PrivateRoute path='/addservice'>
+        <Route path='/addservice'>
           <Addservice></Addservice>
-        </PrivateRoute>
+        </Route>
         <PrivateRoute path='/manageorders'>
         <ManageOrder></ManageOrder>
         </PrivateRoute>
