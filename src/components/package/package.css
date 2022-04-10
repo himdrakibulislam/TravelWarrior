@@ -1,0 +1,23 @@
+.details{
+    font-family: 'Open Sans';
+    font-size: 16px;
+    line-height: 1.8em;
+    color: rgba(103, 103, 103, 0.8);
+}
+.package-button{
+    background: none;
+    display: inline-block;
+    border: 1px solid #3db0b3;
+    font-size: 12px;
+    font-family: 'Montserrat';
+    color: #3db0b3;
+    padding: 5px 25px;
+    -webkit-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+}
+.package-button:hover{
+    text-decoration: none;
+    background-color: #3db0b3;
+    color: #fff;
+}

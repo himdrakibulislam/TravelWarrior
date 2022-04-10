@@ -1,0 +1,8 @@
+.banner-style{
+    margin-top: 70px;
+}
+@media only screen and (max-width: 600px) {
+    .banner-style img {
+      height: 250px;
+    }
+  }

@@ -1,0 +1,11 @@
+.addservice-style{
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+}
+.addservice-style form input {
+    display: flex;
+    
+}
